@@ -10,10 +10,9 @@
   - For now, here's only enet.py, which is the pyfile for ENet
 
 ## main.py
-  - Here, instead using argparse
-  - I use two (or more) argument dictionaies for argument passing.
+  - Here, instead using argparse use two (or more) argument dictionaies for argument passing.
 
-## I just want to modify this file to see if it changes in github
+
 
 
 
